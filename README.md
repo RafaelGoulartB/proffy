@@ -25,6 +25,12 @@
 * [Found a bug? Missing a specific feature?](#bug-issues)
 * [License](#closed_book-license)
 
+### Web
+<div style="display: flex; flex-direction: 'row'; align-items: center;">
+  <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/web-list.png" width="380px">
+  <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/web-form.png" width="380px">
+</div>
+
 # :computer: Technologies
 This project was made using the follow technologies:
 <ul>
