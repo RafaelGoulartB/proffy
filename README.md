@@ -1,3 +1,6 @@
+<p align="center">
+   <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/logo.svg" width="150"/>
+</p>
 <h1 align="center">Proffy</h1>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
