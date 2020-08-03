@@ -1,6 +1,3 @@
-<p align="center">
-   <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/logo.svg" width="150"/>
-</p>
 <h1 align="center">Proffy</h1>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -38,9 +35,10 @@
 # :computer: Technologies
 This project was made using the follow technologies:
 <ul>
+  <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
   <li><a href="https://reactnative.dev/">React Native</a></li>
   <li><a href="https://expo.io/">Expo</a></li>
-  <li><a href="https://eslint.org/">Eslint</a></li>
+  <li><a href="https://expressjs.com/en/api.html#express">Express</a></li>
 </ul>
 
 # :rocket: Features
