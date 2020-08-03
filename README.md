@@ -1,4 +1,6 @@
-<h1 align="center">Proffy</h1>
+<p align="center">
+   <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/logo.png" alt="Proffy" width="280"/>
+</p>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/RafaelGoulartB/Proffy#readme">
