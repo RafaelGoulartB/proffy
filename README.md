@@ -73,12 +73,27 @@ This project was made using the follow technologies:
 * App to connect teachers and students.
 
 # :construction_worker: How to run
-### Run Web Project
-
 ```bash
 # Clone Repository
 $ git clone https://github.com/RafaelGoulartB/Proffy.git
+```
+### Run API
 
+```bash
+# Go to server folder
+$ cd Proffy/server
+
+# Install Dependencies
+$ yarn install
+
+# Run Aplication
+$ yarn start
+```
+Access API at http://localhost:3333/
+
+### Run Web Project
+
+```bash
 # Go to web folder
 $ cd Proffy/web
 
@@ -96,9 +111,6 @@ To run the mobile project you need a cellphone with the app of [expo](https://pl
 After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
 
 ```bash
-# Clone Repository
-$ git clone https://github.com/RafaelGoulartB/Proffy.git
-
 # Go to mobile folder
 $ cd Proffy/mobile
 
