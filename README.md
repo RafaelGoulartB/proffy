@@ -78,7 +78,7 @@ This project was made using the follow technologies:
 # Clone Repository
 $ git clone https://github.com/RafaelGoulartB/Proffy.git
 ```
-### Run API
+### 📦 Run API
 
 ```bash
 # Go to server folder
@@ -92,7 +92,7 @@ $ yarn start
 ```
 Access API at http://localhost:3333/
 
-### Run Web Project
+### 💻 Run Web Project
 
 ```bash
 # Go to web folder
@@ -106,7 +106,7 @@ $ yarn start
 ```
 Go to http://localhost:3000/ to see the result.
 
-### Run Mobile Project
+### 📱 Run Mobile Project
 To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
 <br />
 After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
