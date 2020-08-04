@@ -28,6 +28,7 @@
 * [Features](#rocket-features)
 * [How to Run](#construction_worker-how-to-run)
 * [Found a bug? Missing a specific feature?](#bug-issues)
+* [Contributing](#tada-contributing)
 * [License](#closed_book-license)
 
 <h2 align="left"> 📥 Layout available for download at: </h2>
@@ -77,7 +78,7 @@ This project was made using the follow technologies:
 # Clone Repository
 $ git clone https://github.com/RafaelGoulartB/Proffy.git
 ```
-### Run API
+### 📦 Run API
 
 ```bash
 # Go to server folder
@@ -91,7 +92,7 @@ $ yarn start
 ```
 Access API at http://localhost:3333/
 
-### Run Web Project
+### 💻 Run Web Project
 
 ```bash
 # Go to web folder
@@ -105,7 +106,7 @@ $ yarn start
 ```
 Go to http://localhost:3000/ to see the result.
 
-### Run Mobile Project
+### 📱 Run Mobile Project
 To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
 <br />
 After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
@@ -126,6 +127,10 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 # :bug: Issues
 
 Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/RafaelGoulartB/Proffy/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+
+# :tada: Contributing
+
+Check out the [contributing](https://github.com/RafaelGoulartB/Proffy/blob/master/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
 # :closed_book: License
 
