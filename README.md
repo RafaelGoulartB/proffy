@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">	
-<a href="https://www.linkedin.com/in/rafael-goulartb/">
-  <img alt="Rafael Goulart" src="https://img.shields.io/badge/-RafaelGoulartB-8257E5?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
+   <a href="https://www.linkedin.com/in/rafael-goulartb/">
+      <img alt="Rafael Goulart" src="https://img.shields.io/badge/-RafaelGoulartB-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelGoulartB/proffy?color=774DD6">
 
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
@@ -15,12 +15,21 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RafaelGoulartB/proffy?color=774DD6">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
-   <a href="https://github.com/RafaelGoulartB/proffy/stargazers">
+  <a href="https://github.com/RafaelGoulartB/proffy/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/RafaelGoulartB/proffy?color=8257E5&logo=github">
   </a>
 </p>
 
 > :rocket: Project made to connect teachers to students, made in Next Level Week #2 @Rocketseat
+
+<div align="center">
+  <sub>The NLW #2 project. Built with ❤︎ by
+    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
+    <a href="https://github.com/RafaelGoulartB/Proffy/graphs/contributors">
+      contributors
+    </a>
+  </sub>
+</div>
 
 # :pushpin: Table of Contents
 
