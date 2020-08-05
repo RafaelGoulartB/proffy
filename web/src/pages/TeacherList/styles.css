@@ -29,6 +29,9 @@
   #search-teachers .input-block + .input-block {
     margin-top: 0;
   }
+  #search-teachers .select-block + .select-block {
+    margin-top: 0;
+  }
   #page-teacher-list main {
     padding: 3.2rem 0;
     max-width: 740px;
