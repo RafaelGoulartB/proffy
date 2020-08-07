@@ -140,14 +140,14 @@ Feel free to **file a new issue** with a respective title and description on the
 
 # :tada: Contributing
 
-Check out the [contributing](https://github.com/RafaelGoulartB/Proffy/blob/master/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
 # :closed_book: License
 
 Released in 2020 :closed_book: License
 
 Made with love by [Rafael Goulart](https://github.com/RafaelGoulartB) 🚀.
-This project is under the [MIT license](https://github.com/RafaelGoulartB/Proffy/master/LICENSE).
+This project is under the [MIT license](./LICENSE).
 
 
 Give a ⭐️ if this project helped you!
