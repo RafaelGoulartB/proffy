@@ -39,6 +39,7 @@
 
 # :pushpin: Tabela de Conteúdo
 
+* [Site de Demostração](#eyes-site-de-demostração) 
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
 * [Como rodar](#construction_worker-como-rodar)
@@ -69,6 +70,12 @@
    <img src="./.github/mobile-home.png" width="180">
    <img src="./.github/mobile-favoritos.png" width="180">
 </div>
+
+# :eyes: Site de Demostração
+Você pode acessar o site em:     
+👉  demo: https://proffy-rafa.netlify.app/ 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](https://app.netlify.com/sites/proffy-rafa/deploys)     
 
 # :computer: Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
