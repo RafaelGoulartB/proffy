@@ -47,7 +47,7 @@
 * [Contribuindo](#tada-contribuindo)
 * [Licencia](#closed_book-licencia)
 
-<h2 align="left"> 📥 Layout disponivel para download em: </h2>
+## 📥 Layout disponivel para download em:  
 <p align="center">
     <a title="Download .fig Web" href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/17c8198d-4e67-4838-b18b-440cd2fdf37e/Proffy_Web.fig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200804T053236Z&X-Amz-Expires=86400&X-Amz-Signature=ba4ac9b73aca8c78671e5a872403d63b58e4ad69e3fd2d50b0ca57797173906d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Proffy_Web.fig%22">
         <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
